@@ -6,7 +6,7 @@ A demo website showcasing pixel-perfect design mimification using vanilla techno
 
 ## 🔗Demo
 
-<a href="https://mohamedemad2251-luminacreative.netlify.app/">
+<a href="https://mohamedemad2251-luminacreative.netlify.app/" target="_blank">
 
 Check Out The Website!
 
