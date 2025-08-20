@@ -6,7 +6,7 @@ A demo website showcasing pixel-perfect design mimification using vanilla techno
 
 ## 🔗Demo
 
-<a href="https://mohamedemad2251-luminacreative.netlify.app/" target="_blank">
+<a href="https://mohamedemad2251-luminacreative.netlify.app/">
 
 Check Out The Website!
 
@@ -16,7 +16,7 @@ Check Out The Website!
 
 ## 🛠️Tech Stacks
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center">
 <img height="30vh" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img height="30vh" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
@@ -41,21 +41,29 @@ Check Out The Website!
 
 ### Desktop
 
-<div style="display:flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display:flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="screenshots/desktop-screenshot1.png">
+ &nbsp;
 <img src="screenshots/desktop-screenshot2.png">
+ &nbsp;
 <img src="screenshots/desktop-screenshot3.png">
+ &nbsp;
 <img src="screenshots/desktop-screenshot4.png">
 </div>
 
 ### Mobile
 
-<div style="display:flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px;">
+<div style="display:flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 <img src="screenshots/mobile-screenshot1.png">
+ &nbsp;
 <img src="screenshots/mobile-screenshot2.png">
+ &nbsp;
 <img src="screenshots/mobile-screenshot3.png">
+ &nbsp;
 <img src="screenshots/mobile-screenshot4.png">
+ &nbsp;
 <img src="screenshots/mobile-screenshot5.png">
+ &nbsp;
 <img src="screenshots/mobile-screenshot6.png">
 </div>
 
